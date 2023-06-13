@@ -58,7 +58,7 @@
                 }
             }
             Console.WriteLine($"{Biggest1.GetName()} Is The Best At CSarp");
-            //----------------------------------------
+            //------Same-Thing-Better-Function--\/-----------
             static string FindBiggestName(Student[] Stdnts)
             {
                 Student Biggest = Stdnts[0];
